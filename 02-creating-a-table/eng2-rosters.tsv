@@ -1,0 +1,898 @@
+ID	CodeID	No	Name	TeamID	Team	Pos
+19067	alabi-james	28	Alabi, James	mansfield-town	Mansfield Town	F
+19528	arestidou-andres	25	Arestidou, Andres	morecambe	Morecambe	G
+19091	allen-jamie	21	Allen, Jamie	fleetwood-town	Fleetwood Town	M
+19553	amond-padraig	27	Amond, Padraig	morecambe	Morecambe	F
+19588	antwi-will	14	Antwi, Will	afc-wimbledon	AFC Wimbledon	D
+19441	anthony-byron	21	Anthony, Byron	newport-county	Newport County	D
+19066	adelakun-hakeeb	16	Adelakun, Hakeeb	scunthorpe-united	Scunthorpe United	F
+19211	atkinson-mike	26	Atkinson, Mike	york-city	York City	D
+19288	azeez-adebayo	23	Azeez, Adebayo	torquay-united	Torquay United	F
+19656	arnold-nick	23	Arnold, Nick	wycombe-wanderers	Wycombe Wanderers	D
+19221	allen-tom	20	Allen, Tom	york-city	York City	M
+19664	ainsworth-gareth	40	Ainsworth, Gareth	wycombe-wanderers	Wycombe Wanderers	M
+19229	andrew-calvin	24	Andrew, Calvin	mansfield-town	Mansfield Town	F
+19471	atkinson-robert	25	Atkinson, Robert	accrington-stanley	Accrington Stanley	D
+19600	arthur-chris	19	Arthur, Chris	afc-wimbledon	AFC Wimbledon	M
+19261	ashby-josh	38	Ashby, Josh	oxford-united	Oxford United	F
+19267	anderson-lloyd	30	Anderson, Lloyd	dagenham-redbridge	Dagenham & Redbridge	G
+19202	alexander-gary	9	Alexander, Gary	burton-albion	Burton Albion	F
+19324	alessandra-lewis	7	Alessandra, Lewis	plymouth-argyle	Plymouth Argyle	F
+19450	amdi-holloway-aaron	24	Amdi-Holloway, Aaron	newport-county	Newport County	M
+19166	auger-ryan	24	Auger, Ryan	southend-united	Southend United 	M
+19561	austin-neil	2	Austin, Neil	hartlepool-united	Hartlepool United	D
+15655	appiah-kwesi	37	Appiah, Kwesi	afc-wimbledon	AFC Wimbledon	F
+19165	atkinson-will	12	Atkinson, Will	southend-united	Southend United 	M
+19428	agyemang-patrick	23	Agyemang, Patrick	portsmouth	Portsmouth	F
+19416	awford-nick	24	Awford, Nick	portsmouth	Portsmouth	M
+15779	alfei-daniel	15	Alfei, Daniel	portsmouth	Portsmouth	D
+19481	aldred-tom	5	Aldred, Tom	accrington-stanley	Accrington Stanley	M
+19103	bunny-joe	39	Bunny, Joe	rochdale	Rochdale	F
+19113	barton-adam	29	Barton, Adam	fleetwood-town	Fleetwood Town	D
+19124	blair-matty	32	Blair, Matty	northampton-town	Northampton Town	M
+19726	brundle-mitch	32	Brundle, Mitch	cheltenham-town	Cheltenham Town	M
+19136	ball-david	23	Ball, David	fleetwood-town	Fleetwood Town	F
+19146	bentley-daniel	17	Bentley, Daniel	southend-united	Southend United 	G
+19149	banton-josh	27	Banton, Josh	southend-united	Southend United 	D
+19150	bennett-julian	19	Bennett, Julian	southend-united	Southend United 	D
+19151	bolger-cian	15	Bolger, Cian	southend-united	Southend United 	D
+19429	barcham-andy	7	Barcham, Andy	portsmouth	Portsmouth	F
+19167	bridge-jack	30	Bridge, Jack	southend-united	Southend United 	M
+19503	butterfield-danny	2	Butterfield, Danny	exeter-city	Exeter City	D
+19393	boswell-liam		Boswell, Liam	bury	Bury	F
+19194	bell-lee	7	Bell, Lee	burton-albion	Burton Albion	M
+19222	brobbell-ryan	27	Brobbell, Ryan	york-city	York City	M
+19230	bowman-ryan	19	Bowman, Ryan	york-city	York City	F
+19239	bevans-matt	34	Bevans, Matt	oxford-united	Oxford United	D
+19407	bird-ryan	18	Bird, Ryan	portsmouth	Portsmouth	D
+19289	bingham-billy	6	Bingham, Billy	dagenham-redbridge	Dagenham & Redbridge	F
+19303	bencherif-hamza	20	Bencherif, Hamza	plymouth-argyle	Plymouth Argyle	D
+19304	berry-durrell	2	Berry, Durrell	plymouth-argyle	Plymouth Argyle	D
+19305	blanchard-maximo	4	Blanchard, Maximo	plymouth-argyle	Plymouth Argyle	D
+19306	branston-guy	5	Branston, Guy	plymouth-argyle	Plymouth Argyle	D
+19312	banton-jason	20	Banton, Jason	plymouth-argyle	Plymouth Argyle	M
+19313	blizzard-dominic	11	Blizzard, Dominic	plymouth-argyle	Plymouth Argyle	M
+19314	boco-romuald	8	Boco, Romuald	plymouth-argyle	Plymouth Argyle	M
+19336	beevers-lee	17	Beevers, Lee	mansfield-town	Mansfield Town	D
+19337	black-paul	3	Black, Paul	mansfield-town	Mansfield Town	D
+19502	bennett-scott	4	Bennett, Scott	exeter-city	Exeter City	D
+19472	buxton-adam	4	Buxton, Adam	burton-albion	Burton Albion	D
+19356	briscoe-louis	7	Briscoe, Louis	mansfield-town	Mansfield Town	F
+19365	burke-james	27	Burke, James	bury	Bury	D
+19451	burge-ryan	15	Burge, Ryan	newport-county	Newport County	M
+19494	beattie-james	21	Beattie, James	accrington-stanley	Accrington Stanley	F
+19495	bowerman-george	44	Bowerman, George	accrington-stanley	Accrington Stanley	F
+15512	barnard-lee		Barnard, Lee	southend-united	Southend United 	F
+19501	baldwin-pat	5	Baldwin, Pat	exeter-city	Exeter City	D
+19519	bauza-guillem		Bauza, Guillem	exeter-city	Exeter City	F
+19530	beesley-shaun	2	Beesley, Shaun	bury	Bury	D
+19531	bell-will	18	Bell, Will	morecambe	Morecambe	D
+19562	burgess-christian	35	Burgess, Christian	hartlepool-united	Hartlepool United	D
+19568	barmby-jack	12	Barmby, Jack	hartlepool-united	Hartlepool United	M
+19586	bayes-ashley	20	Bayes, Ashley	afc-wimbledon	AFC Wimbledon	G
+19587	brown-sebastien	22	Brown, Sebastien	afc-wimbledon	AFC Wimbledon	G
+19589	bennett-alan	6	Bennett, Alan	afc-wimbledon	AFC Wimbledon	D
+19417	bradley-sonny	6	Bradley, Sonny	portsmouth	Portsmouth	M
+15634	blake-darcy		Blake, Darcy	newport-county	Newport County	D
+19614	beere-tom	30	Beere, Tom	afc-wimbledon	AFC Wimbledon	F
+19665	bloomfield-matt	10	Bloomfield, Matt	wycombe-wanderers	Wycombe Wanderers	M
+19689	broghammer-fabian	11	Broghammer, Fabian	bristol-rovers	Bristol Rovers	D
+19690	brown-lee	14	Brown, Lee	bristol-rovers	Bristol Rovers	D
+19697	beardsley-chris	19	Beardsley, Chris	bristol-rovers	Bristol Rovers	M
+19707	brunt-ryan	26	Brunt, Ryan	bristol-rovers	Bristol Rovers	F
+19717	brown-scott-p	1	Brown, Scott	cheltenham-town	Cheltenham Town	G
+19719	bowen-james	33	Bowen, James	cheltenham-town	Cheltenham Town	D
+19720	braham-barrett-craig	22	Braham-Barrett, Craig	cheltenham-town	Cheltenham Town	D
+19721	brown-troy	5	Brown, Troy	cheltenham-town	Cheltenham Town	D
+18231	bettinelli-marcus	26	Bettinelli, Marcus	accrington-stanley	Accrington Stanley	G
+19651	bull-nikki	1	Bull, Nikki	wycombe-wanderers	Wycombe Wanderers	G
+19011	barrington-josh	40	Barrington, Josh	chesterfield	Chesterfield	G
+19020	banks-oliver	2	Banks, Oliver	chesterfield	Chesterfield	M
+19022	broadhead-jack	18	Broadhead, Jack	chesterfield	Chesterfield	M
+19037	beesley-jake	44	Beesley, Jake	chesterfield	Chesterfield	F
+19378	burgess-scott	33	Burgess, Scott	bury	Bury	M
+19055	burdett-noel	26	Burdett, Noel	scunthorpe-united	Scunthorpe United	M
+19068	burton-deon	8	Burton, Deon	scunthorpe-united	Scunthorpe United	F
+19080	bennett-rhys	3	Bennett, Rhys	rochdale	Rochdale	D
+19092	barry-murphy-brian	20	Barry-Murphy, Brian	rochdale	Rochdale	M
+19430	craddock-tom	10	Craddock, Tom	portsmouth	Portsmouth	F
+19153	coker-ben	3	Coker, Ben	southend-united	Southend United 	D
+19046	canavan-niall	6	Canavan, Niall	scunthorpe-united	Scunthorpe United	D
+19154	coughlan-graham		Coughlan, Graham	southend-united	Southend United 	D
+19510	cane-jacob	34	Cane, Jacob	exeter-city	Exeter City	M
+19408	chorley-ben	26	Chorley, Ben	portsmouth	Portsmouth	D
+19081	cavanagh-peter	4	Cavanagh, Peter	rochdale	Rochdale	D
+19056	collins-michael	35	Collins, Michael	afc-wimbledon	AFC Wimbledon	M
+19563	collins-sam	5	Collins, Sam	hartlepool-united	Hartlepool United	D
+19137	carr-daniel	32	Carr, Daniel	fleetwood-town	Fleetwood Town	F
+19138	cartright-max	32	Cartright, Max	fleetwood-town	Fleetwood Town	F
+19698	clarke-ollie	24	Clarke, Ollie	bristol-rovers	Bristol Rovers	M
+19708	clarkson-david_2	7	Clarkson, David	bristol-rovers	Bristol Rovers	F
+19093	camps-callum	28	Camps, Callum	rochdale	Rochdale	M
+19637	carter-darren	4	Carter, Darren	northampton-town	Northampton Town	M
+19212	chamberlain-tom	22	Chamberlain, Tom	york-city	York City	D
+19223	carson-josh	12	Carson, Josh	york-city	York City	M
+19299	cole-jake	1	Cole, Jake	plymouth-argyle	Plymouth Argyle	G
+17881	coulthirst-shaquile	27	Coulthirst, Shaquile	torquay-united	Torquay United	F
+19268	connors-jack	26	Connors, Jack	dagenham-redbridge	Dagenham & Redbridge	G
+19152	chambers-luke	25	Chambers, Luke	southend-united	Southend United 	D
+19330	cain-michael	24	Cain, Michael	mansfield-town	Mansfield Town	G
+19076	collis-steven	23	Collis, Steven	rochdale	Rochdale	G
+19418	close-ben	33	Close, Ben	portsmouth	Portsmouth	M
+19348	clements-chris	19	Clements, Chris	mansfield-town	Mansfield Town	M
+19349	clucas-samuel	11	Clucas, Samuel	mansfield-town	Mansfield Town	M
+19734	cureton-jamie	7	Cureton, Jamie	cheltenham-town	Cheltenham Town	F
+19231	coulson-michael	7	Coulson, Michael	york-city	York City	F
+19168	clifford-conor	16	Clifford, Conor	southend-united	Southend United 	M
+19363	charles-cook-reice	30	Charles-Cook, Reice	bury	Bury	G
+19366	cameron-nathan	5	Cameron, Nathan	bury	Bury	D
+19175	corr-barry	10	Corr, Barry	southend-united	Southend United 	F
+19012	crossley-mark		Crossley, Mark	chesterfield	Chesterfield	G
+19379	carole-sebastien		Carole, Sebastien	bury	Bury	M
+19380	chippendale-aiden	23	Chippendale, Aiden	bury	Bury	M
+19236	clarke-ryan	1	Clarke, Ryan	oxford-united	Oxford United	G
+19237	crocombe-max	21	Crocombe, Max	oxford-united	Oxford United	G
+19645	cristian-cristian	10	Cristian, Cristian	northampton-town	Northampton Town	F
+19185	cansdell-sherriff-shane	25	Cansdell-Sherriff, Shane	burton-albion	Burton Albion	D
+19569	compton-jack	14	Compton, Jack	hartlepool-united	Hartlepool United	M
+19114	cresswell-ryan	16	Cresswell, Ryan	fleetwood-town	Fleetwood Town	D
+19626	collins-lee	6	Collins, Lee	northampton-town	Northampton Town	D
+19680	craig-steven	20	Craig, Steven	wycombe-wanderers	Wycombe Wanderers	F
+19646	connell-alan	18	Connell, Alan	northampton-town	Northampton Town	F
+19504	coles-danny	6	Coles, Danny	exeter-city	Exeter City	D
+19403	carson-trevor	1	Carson, Trevor	bury	Bury	G
+19452	chapman-adam	7	Chapman, Adam	newport-county	Newport County	M
+19016	cooper-liam	6	Cooper, Liam	chesterfield	Chesterfield	D
+19462	crow-danny	9	Crow, Danny	newport-county	Newport County	F
+19699	clucas-seanan	25	Clucas, Seanan	bristol-rovers	Bristol Rovers	M
+19315	copp-jordan		Copp, Jordan	plymouth-argyle	Plymouth Argyle	M
+19473	clark-luke	14	Clark, Luke	accrington-stanley	Accrington Stanley	D
+19262	connolly-david	9	Connolly, David	portsmouth	Portsmouth	F
+19104	cummins-graham	29	Cummins, Graham	rochdale	Rochdale	F
+19263	constable-james	9	Constable, James	oxford-united	Oxford United	F
+19419	drennan-michael	28	Drennan, Michael	portsmouth	Portsmouth	M
+19470	dawber-andrew	22	Dawber, Andrew	accrington-stanley	Accrington Stanley	G
+19727	deering-sam	8	Deering, Sam	cheltenham-town	Cheltenham Town	M
+19038	doyle-eoin	17	Doyle, Eoin	chesterfield	Chesterfield	F
+19394	dudley-anthony	32	Dudley, Anthony	bury	Bury	F
+19232	dickinson-chris	25	Dickinson, Chris	york-city	York City	F
+19735	dale-bobbie	24	Dale, Bobbie	cheltenham-town	Cheltenham Town	F
+19736	daniels-billy	29	Daniels, Billy	cheltenham-town	Cheltenham Town	F
+19105	donnelly-george	9	Donnelly, George	rochdale	Rochdale	F
+19511	davies-arron	11	Davies, Arron	exeter-city	Exeter City	M
+19512	dawson-aaron	16	Dawson, Aaron	exeter-city	Exeter City	M
+19513	doherty-tommy	14	Doherty, Tommy	exeter-city	Exeter City	M
+19013	dunbavin-ian	1	Dunbavin, Ian	accrington-stanley	Accrington Stanley	G
+19269	davis-cain		Davis, Cain	dagenham-redbridge	Dagenham & Redbridge	G
+19023	darwikwa-tendayi	7	Darwikwa, Tendayi	chesterfield	Chesterfield	M
+19024	devitt-jamie	12	Devitt, Jamie	morecambe	Morecambe	M
+19542	drummond-stuart	16	Drummond, Stuart	morecambe	Morecambe	M
+19281	d-ath-lawson	12	D'Ath, Lawson	dagenham-redbridge	Dagenham & Redbridge	M
+19532	diagne-tony	6	Diagne, Tony	morecambe	Morecambe	D
+19657	doherty-gary	30	Doherty, Gary	wycombe-wanderers	Wycombe Wanderers	D
+19290	dickson-chris	14	Dickson, Chris	dagenham-redbridge	Dagenham & Redbridge	F
+19533	doyle-chris	23	Doyle, Chris	morecambe	Morecambe	D
+19291	doe-scott	4	Doe, Scott	dagenham-redbridge	Dagenham & Redbridge	F
+19186	dyer-jack	22	Dyer, Jack	burton-albion	Burton Albion	D
+19543	dunleavy-daniel	35	Dunleavy, Daniel	morecambe	Morecambe	M
+19621	duke-matt	1	Duke, Matt	northampton-town	Northampton Town	G
+19047	dawson-andy	3	Dawson, Andy	scunthorpe-united	Scunthorpe United	D
+19300	dawson-cameron	32	Dawson, Cameron	plymouth-argyle	Plymouth Argyle	G
+19247	davies-scott_2	18	Davies, Scott	oxford-united	Oxford United	M
+19570	duckworth-michael	21	Duckworth, Michael	hartlepool-united	Hartlepool United	M
+19357	dyer-ross	15	Dyer, Ross	mansfield-town	Mansfield Town	F
+19069	djeziri-adda		Djeziri, Adda	scunthorpe-united	Scunthorpe United	F
+19331	deakin-ian	22	Deakin, Ian	mansfield-town	Mansfield Town	G
+19658	dunne-charles	3	Dunne, Charles	wycombe-wanderers	Wycombe Wanderers	D
+19338	dempster-john	4	Dempster, John	mansfield-town	Mansfield Town	D
+19615	dickenson-ben		Dickenson, Ben	afc-wimbledon	AFC Wimbledon	F
+19094	done-matt	16	Done, Matt	rochdale	Rochdale	M
+19350	daniel-colin	30	Daniel, Colin	mansfield-town	Mansfield Town	M
+19125	davies-scott	1	Davies, Scott	fleetwood-town	Fleetwood Town	M
+19627	diamond-alexander	5	Diamond, Alexander	burton-albion	Burton Albion	D
+19628	dickenson-brennan	35	Dickenson, Brennan	northampton-town	Northampton Town	D
+19638	deegan-gary	17	Deegan, Gary	northampton-town	Northampton Town	M
+19639	dias-claudio	22	Dias, Claudio	northampton-town	Northampton Town	M
+19139	dieseruvwe-emmanuel	29	Dieseruvwe, Emmanuel	fleetwood-town	Fleetwood Town	F
+15781	davies-ben	3	Davies, Ben	york-city	York City	D
+19409	devera-joe	5	Devera, Joe	portsmouth	Portsmouth	D
+19629	doumbe-mathias	27	Doumbe, Mathias	northampton-town	Northampton Town	D
+19195	delap-rory	4	Delap, Rory	burton-albion	Burton Albion	M
+19077	edwards-matthew		Edwards, Matthew	rochdale	Rochdale	G
+19169	edwards-jack	26	Edwards, Jack	southend-united	Southend United 	M
+19176	eastwood-freddy	7	Eastwood, Freddy	southend-united	Southend United 	F
+19177	egan-john	32	Egan, John	southend-united	Southend United 	F
+19082	eastham-ashley	5	Eastham, Ashley	rochdale	Rochdale	D
+19017	evatt-ian	23	Evatt, Ian	chesterfield	Chesterfield	D
+19667	ehui-georges	35	Ehui, Georges	wycombe-wanderers	Wycombe Wanderers	M
+19534	edwards-ryan	27	Edwards, Ryan	chesterfield	Chesterfield	D
+19544	ellison-kevin	11	Ellison, Kevin	morecambe	Morecambe	M
+19410	east-danny	4	East, Danny	portsmouth	Portsmouth	D
+19411	ertl-johannes	13	Ertl, Johannes	portsmouth	Portsmouth	D
+19057	esajas-etienne	10	Esajas, Etienne	scunthorpe-united	Scunthorpe United	M
+19140	evans-gareth	7	Evans, Gareth	fleetwood-town	Fleetwood Town	F
+19282	edgar-anthony	19	Edgar, Anthony	dagenham-redbridge	Dagenham & Redbridge	M
+19283	elito-medy	7	Elito, Medy	dagenham-redbridge	Dagenham & Redbridge	M
+19722	elliott-steve	6	Elliott, Steve	cheltenham-town	Cheltenham Town	D
+19187	edwards-phil	2	Edwards, Phil	burton-albion	Burton Albion	D
+19505	edwards-rob		Edwards, Rob	exeter-city	Exeter City	D
+19395	forrester-anton	9	Forrester, Anton	bury	Bury	F
+19367	futcher-ben		Futcher, Ben	bury	Bury	D
+19421	fogden-wes	19	Fogden, Wes	portsmouth	Portsmouth	M
+19233	fletcher-wes	9	Fletcher, Wes	york-city	York City	F
+19332	fell-jordan		Fell, Jordan	mansfield-town	Mansfield Town	G
+19273	fortune-jonathan		Fortune, Jonathan	dagenham-redbridge	Dagenham & Redbridge	D
+19604	fuller-barry	2	Fuller, Barry	afc-wimbledon	AFC Wimbledon	M
+19545	fleming-andrew	17	Fleming, Andrew	morecambe	Morecambe	M
+19454	flynn-michael	17	Flynn, Michael	newport-county	Newport County	M
+19571	franks-jonathan	7	Franks, Jonathan	hartlepool-united	Hartlepool United	M
+19590	fenlon-jim	15	Fenlon, Jim	afc-wimbledon	AFC Wimbledon	D
+19591	francomb-george	7	Francomb, George	afc-wimbledon	AFC Wimbledon	D
+19602	fayers-charlie	31	Fayers, Charlie	afc-wimbledon	AFC Wimbledon	M
+19603	frampton-andy	5	Frampton, Andy	afc-wimbledon	AFC Wimbledon	M
+19141	fontaine-jean-michel		Fontaine, Jean-Michel	fleetwood-town	Fleetwood Town	F
+19659	foster-danny		Foster, Danny	wycombe-wanderers	Wycombe Wanderers	D
+19420	ferry-simon	16	Ferry, Simon	portsmouth	Portsmouth	M
+19442	feely-kevin	23	Feely, Kevin	afc-wimbledon	AFC Wimbledon	D
+19453	fielding-kristian		Fielding, Kristian	newport-county	Newport County	M
+19558	flinders-scott	1	Flinders, Scott	hartlepool-united	Hartlepool United	G
+19559	foden-mark	32	Foden, Mark	hartlepool-united	Hartlepool United	G
+19058	gibbons-robbie		Gibbons, Robbie	scunthorpe-united	Scunthorpe United	M
+19506	gill-matthew	8	Gill, Matthew	bristol-rovers	Bristol Rovers	D
+19070	godden-matt	17	Godden, Matt	scunthorpe-united	Scunthorpe United	F
+19514	gosling-jake	21	Gosling, Jake	exeter-city	Exeter City	M
+19515	grimes-matt	29	Grimes, Matt	exeter-city	Exeter City	M
+19095	gray-reece	10	Gray, Reece	rochdale	Rochdale	M
+19535	grimshaw-liam		Grimshaw, Liam	morecambe	Morecambe	D
+19687	gough-connor	20	Gough, Connor	bristol-rovers	Bristol Rovers	G
+19115	goodall-alan	13	Goodall, Alan	fleetwood-town	Fleetwood Town	D
+19126	grant-robert	19	Grant, Robert	fleetwood-town	Fleetwood Town	M
+19155	gomis-bedsente	29	Gomis, Bedsente	southend-united	Southend United 	D
+19188	gray-david	26	Gray, David	burton-albion	Burton Albion	D
+19292	gracco-gianluca	24	Gracco, Gianluca	dagenham-redbridge	Dagenham & Redbridge	F
+19737	gornell-terry	10	Gornell, Terry	cheltenham-town	Cheltenham Town	F
+19474	gray-james	17	Gray, James	accrington-stanley	Accrington Stanley	D
+19700	green-jake	21	Green, Jake	bristol-rovers	Bristol Rovers	M
+19709	gillespie-steven	23	Gillespie, Steven	cheltenham-town	Cheltenham Town	F
+19710	gow-alan	10	Gow, Alan	exeter-city	Exeter City	F
+19274	gayle-ian	22	Gayle, Ian	dagenham-redbridge	Dagenham & Redbridge	D
+19316	gurrieri-andres	27	Gurrieri, Andres	plymouth-argyle	Plymouth Argyle	M
+19339	gregory-jason		Gregory, Jason	mansfield-town	Mansfield Town	D
+19381	grimes-ashley	10	Grimes, Ashley	bury	Bury	M
+19025	gardner-danny	26	Gardner, Danny	chesterfield	Chesterfield	M
+19039	gnanduillet-armand	21	Gnanduillet, Armand	chesterfield	Chesterfield	F
+19096	hery-bastien	14	Hery, Bastien	rochdale	Rochdale	M
+19178	harris-neil		Harris, Neil	southend-united	Southend United 	F
+19106	henderson-ian	40	Henderson, Ian	rochdale	Rochdale	F
+19196	harness-marcus	27	Harness, Marcus	burton-albion	Burton Albion	M
+19203	hemmings-ashley	12	Hemmings, Ashley	burton-albion	Burton Albion	F
+19116	hogan-liam	14	Hogan, Liam	fleetwood-town	Fleetwood Town	D
+19224	hayhurst-william	26	Hayhurst, William	york-city	York City	M
+19463	howe-rene	9	Howe, Rene	burton-albion	Burton Albion	F
+19238	henly-jonathan	23	Henly, Jonathan	oxford-united	Oxford United	G
+19270	hogan-david	27	Hogan, David	dagenham-redbridge	Dagenham & Redbridge	G
+19285	hines-zavon	41	Hines, Zavon	dagenham-redbridge	Dagenham & Redbridge	M
+19301	hannah-andrew	31	Hannah, Andrew	plymouth-argyle	Plymouth Argyle	G
+19325	harvey-tyler	18	Harvey, Tyler	plymouth-argyle	Plymouth Argyle	F
+19351	hawkins-jack		Hawkins, Jack	mansfield-town	Mansfield Town	M
+19368	hinds-richard	4	Hinds, Richard	bury	Bury	D
+19369	holden-euan	11	Holden, Euan	bury	Bury	D
+19358	hutchinson-ben	18	Hutchinson, Ben	mansfield-town	Mansfield Town	F
+19382	howell-dean	3	Howell, Dean	fleetwood-town	Fleetwood Town	M
+19117	hughes-jeff	11	Hughes, Jeff	fleetwood-town	Fleetwood Town	D
+19059	hornsey-luke	22	Hornsey, Luke	scunthorpe-united	Scunthorpe United	M
+19060	hughes-mark		Hughes, Mark	scunthorpe-united	Scunthorpe United	M
+19142	hume-iain	36	Hume, Iain	fleetwood-town	Fleetwood Town	F
+19422	hollands-danny	29	Hollands, Danny	portsmouth	Portsmouth	M
+19431	holmes-ricky	11	Holmes, Ricky	portsmouth	Portsmouth	F
+19118	hughes-matty	22	Hughes, Matty	fleetwood-town	Fleetwood Town	D
+19181	hall-freddy	30	Hall, Freddy	burton-albion	Burton Albion	G
+19443	hughes-andrew	3	Hughes, Andrew	newport-county	Newport County	D
+19083	hogan-scott	11	Hogan, Scott	rochdale	Rochdale	D
+19189	holness-marcus	21	Holness, Marcus	burton-albion	Burton Albion	D
+19475	hunt-nicky	16	Hunt, Nicky	accrington-stanley	Accrington Stanley	D
+19248	hunt-david	13	Hunt, David	oxford-united	Oxford United	M
+19482	hatfield-will	10	Hatfield, Will	accrington-stanley	Accrington Stanley	M
+19483	hazeldine-max	33	Hazeldine, Max	accrington-stanley	Accrington Stanley	M
+19498	hamon-james	33	Hamon, James	exeter-city	Exeter City	G
+19170	hurst-kevan	14	Hurst, Kevan	southend-united	Southend United 	M
+19396	healy-david		Healy, David	bury	Bury	F
+19536	hughes-mark_2	5	Hughes, Mark	morecambe	Morecambe	D
+19018	hird-sam	4	Hird, Sam	chesterfield	Chesterfield	D
+19564	holden-darren	22	Holden, Darren	hartlepool-united	Hartlepool United	D
+19284	hacker-luke	33	Hacker, Luke	northampton-town	Northampton Town	M
+19026	humphreys-ritchie	15	Humphreys, Ritchie	chesterfield	Chesterfield	M
+19572	harrison-scott	28	Harrison, Scott	bury	Bury	M
+19573	hawkins-lewis	28	Hawkins, Lewis	hartlepool-united	Hartlepool United	M
+19583	harewood-marlon	9	Harewood, Marlon	hartlepool-united	Hartlepool United	F
+19275	howell-luke	17	Howell, Luke	dagenham-redbridge	Dagenham & Redbridge	D
+19276	hoyte-gavin	18	Hoyte, Gavin	dagenham-redbridge	Dagenham & Redbridge	D
+18209	hope-hallam		Hope, Hallam	bury	Bury	M
+19605	herbel-ryan		Herbel, Ryan	afc-wimbledon	AFC Wimbledon	M
+19190	hussey-chris	11	Hussey, Chris	bury	Bury	D
+19622	heath-ben	31	Heath, Ben	northampton-town	Northampton Town	G
+19616	hylton-daniel	24	Hylton, Daniel	bury	Bury	F
+19630	horwood-evan	25	Horwood, Evan	northampton-town	Northampton Town	D
+19640	hackett-chris	11	Hackett, Chris	northampton-town	Northampton Town	M
+19641	hornby-lewis	15	Hornby, Lewis	northampton-town	Northampton Town	M
+19317	harper-penman-jed		Harper-Penman, Jed	plymouth-argyle	Plymouth Argyle	M
+19318	hourihane-conor	6	Hourihane, Conor	plymouth-argyle	Plymouth Argyle	M
+19652	harrison-lee	41	Harrison, Lee	wycombe-wanderers	Wycombe Wanderers	G
+19666	hall-paris-cowan	12	Hall, Paris	wycombe-wanderers	Wycombe Wanderers	M
+19340	howell-anthony	13	Howell, Anthony	mansfield-town	Mansfield Town	D
+19049	howe-callum	20	Howe, Callum	scunthorpe-united	Scunthorpe United	D
+19701	hunter-shaquille	31	Hunter, Shaquille	bristol-rovers	Bristol Rovers	M
+19711	harding-mitch	18	Harding, Mitch	bristol-rovers	Bristol Rovers	F
+19712	harrison-ellis	17	Harrison, Ellis	bristol-rovers	Bristol Rovers	F
+19713	harrold-matt	9	Harrold, Matt	bristol-rovers	Bristol Rovers	F
+19653	horlock-charlie	13	Horlock, Charlie	wycombe-wanderers	Wycombe Wanderers	G
+19728	hanks-joe	17	Hanks, Joe	cheltenham-town	Cheltenham Town	M
+19729	harrison-byron	9	Harrison, Byron	cheltenham-town	Cheltenham Town	M
+19048	hawkridge-terry	14	Hawkridge, Terry	scunthorpe-united	Scunthorpe United	D
+19071	hayes-paul	19	Hayes, Paul	plymouth-argyle	Plymouth Argyle	F
+19723	ihiekwe-michael	28	Ihiekwe, Michael	cheltenham-town	Cheltenham Town	D
+19668	ighorae-emmanuel	37	Ighorae, Emmanuel	wycombe-wanderers	Wycombe Wanderers	M
+19277	ilesanmi-oluwafemi	3	Ilesanmi, Oluwafemi	dagenham-redbridge	Dagenham & Redbridge	D
+19197	ismail-zeli	19	Ismail, Zeli	burton-albion	Burton Albion	M
+19654	ingram-matt	1	Ingram, Matt	wycombe-wanderers	Wycombe Wanderers	G
+18217	inniss-ryan	15	Inniss, Ryan	cheltenham-town	Cheltenham Town	D
+19209	ingham-michael	24	Ingham, Michael	york-city	York City	G
+19464	jeffers-sean	14	Jeffers, Sean	newport-county	Newport County	F
+19565	jones-dan	20	Jones, Dan	hartlepool-united	Hartlepool United	D
+19724	jombarti-sido	20	Jombarti, Sido	cheltenham-town	Cheltenham Town	D
+19669	jeffrey-anthony	15	Jeffrey, Anthony	wycombe-wanderers	Wycombe Wanderers	M
+19484	jenkins-james	29	Jenkins, James	accrington-stanley	Accrington Stanley	M
+19234	jarvis-ryan	11	Jarvis, Ryan	york-city	York City	F
+19574	james-luke	33	James, Luke	hartlepool-united	Hartlepool United	M
+19660	johnson-leon	6	Johnson, Leon	wycombe-wanderers	Wycombe Wanderers	D
+19520	jay-matt	27	Jay, Matt	exeter-city	Exeter City	F
+19592	jones-darren	28	Jones, Darren	afc-wimbledon	AFC Wimbledon	D
+19445	james-tony	5	James, Tony	newport-county	Newport County	D
+19341	jennings-james	16	Jennings, James	mansfield-town	Mansfield Town	D
+19606	jacquart-chace	25	Jacquart, Chace	afc-wimbledon	AFC Wimbledon	M
+19119	jordan-stephen	25	Jordan, Stephen	fleetwood-town	Fleetwood Town	D
+19485	joyce-luke	4	Joyce, Luke	accrington-stanley	Accrington Stanley	M
+19364	jensen-brian	21	Jensen, Brian	bury	Bury	G
+19127	johnson-damien	20	Johnson, Damien	fleetwood-town	Fleetwood Town	M
+19432	jervis-jake	32	Jervis, Jake	portsmouth	Portsmouth	F
+19444	jackson-ryan_2	18	Jackson, Ryan	newport-county	Newport County	D
+19455	jolley-christian	23	Jolley, Christian	newport-county	Newport County	M
+19383	jones-craig	7	Jones, Craig	bury	Bury	M
+19035	kearns-daniel	29	Kearns, Daniel	chesterfield	Chesterfield	F
+19097	kelly-reece		Kelly, Reece	rochdale	Rochdale	M
+19098	kennedy-jason	8	Kennedy, Jason	rochdale	Rochdale	M
+19128	kinsella-gerard		Kinsella, Gerard	fleetwood-town	Fleetwood Town	M
+19204	kee-billy	29	Kee, Billy	burton-albion	Burton Albion	F
+19205	knowles-dominic	18	Knowles, Dominic	burton-albion	Burton Albion	F
+19264	kitson-dave	8	Kitson, Dave	oxford-united	Oxford United	F
+15619	knott-billy	28	Knott, Billy	wycombe-wanderers	Wycombe Wanderers	M
+19546	kenyon-alex	4	Kenyon, Alex	morecambe	Morecambe	M
+19516	keohane-jimmy	22	Keohane, Jimmy	exeter-city	Exeter City	M
+19593	kennedy-callum	3	Kennedy, Callum	afc-wimbledon	AFC Wimbledon	D
+19670	kewley-graham-jesse	21	Kewley-Graham, Jesse	wycombe-wanderers	Wycombe Wanderers	M
+19681	kuffour-jo	18	Kuffour, Jo	wycombe-wanderers	Wycombe Wanderers	F
+19691	keary-pat	34	Keary, Pat	bristol-rovers	Bristol Rovers	D
+19738	kotwica-zack	19	Kotwica, Zack	cheltenham-town	Cheltenham Town	F
+19671	kretzschmar-max	22	Kretzschmar, Max	wycombe-wanderers	Wycombe Wanderers	M
+19499	krysiak-artur	1	Krysiak, Artur	exeter-city	Exeter City	G
+19072	keegan-jordan		Keegan, Jordan	scunthorpe-united	Scunthorpe United	F
+19078	lillis-josh	1	Lillis, Josh	rochdale	Rochdale	G
+19084	lancashire-oliver	6	Lancashire, Oliver	rochdale	Rochdale	D
+19682	logan-richard		Logan, Richard	wycombe-wanderers	Wycombe Wanderers	F
+19107	lynch-craig	19	Lynch, Craig	rochdale	Rochdale	F
+19108	lucas-david	33	Lucas, David	fleetwood-town	Fleetwood Town	G
+19241	lynn-david	32	Lynn, David	oxford-united	Oxford United	D
+19250	long-sam	30	Long, Sam	oxford-united	Oxford United	M
+19183	lyness-dean	16	Lyness, Dean	burton-albion	Burton Albion	G
+19156	leonard-ryan	18	Leonard, Ryan	southend-united	Southend United 	D
+18268	lucas-lee	31	Lucas, Lee	cheltenham-town	Cheltenham Town	M
+19171	laird-marc	4	Laird, Marc	southend-united	Southend United 	M
+19714	lucas-jamie	36	Lucas, Jamie	bristol-rovers	Bristol Rovers	F
+19099	lund-matthew	12	Lund, Matthew	rochdale	Rochdale	M
+19182	lainton-robert	26	Lainton, Robert	bury	Bury	G
+19647	langmead-kelvin	5	Langmead, Kelvin	northampton-town	Northampton Town	F
+19672	lewis-stuart	8	Lewis, Stuart	wycombe-wanderers	Wycombe Wanderers	M
+19240	lee-kenzer	36	Lee, Kenzer	oxford-united	Oxford United	D
+19476	liddle-michael	3	Liddle, Michael	accrington-stanley	Accrington Stanley	D
+19249	leven-peter		Leven, Peter	oxford-united	Oxford United	M
+19702	lockyer-tom	30	Lockyer, Tom	bristol-rovers	Bristol Rovers	M
+19271	lewington-chris	1	Lewington, Chris	dagenham-redbridge	Dagenham & Redbridge	G
+19326	lecointe-matt	21	Lecointe, Matt	plymouth-argyle	Plymouth Argyle	F
+19319	lane-ryan	30	Lane, Ryan	plymouth-argyle	Plymouth Argyle	M
+19014	lee-tommy	1	Lee, Tommy	chesterfield	Chesterfield	G
+19213	lowe-keith	2	Lowe, Keith	cheltenham-town	Cheltenham Town	D
+19550	mwasile-joe	20	Mwasile, Joe	morecambe	Morecambe	M
+19109	martin-oliver		Martin, Oliver	fleetwood-town	Fleetwood Town	G
+19110	maxwell-chris	28	Maxwell, Chris	fleetwood-town	Fleetwood Town	G
+19120	mawene-youl		Mawene, Youl	fleetwood-town	Fleetwood Town	D
+19129	marrow-alex	35	Marrow, Alex	fleetwood-town	Fleetwood Town	M
+19130	mckenna-paul		McKenna, Paul	fleetwood-town	Fleetwood Town	M
+19121	mclaughlin-conor	15	McLaughlin, Conor	fleetwood-town	Fleetwood Town	D
+19692	mcchrystal-mark	29	McChrystal, Mark	bristol-rovers	Bristol Rovers	D
+19191	macdonald-alexander	11	MacDonald, Alexander	burton-albion	Burton Albion	D
+19198	mccrory-damien	14	McCrory, Damien	burton-albion	Burton Albion	M
+19206	mcfadzean-callum	24	McFadzean, Callum	chesterfield	Chesterfield	F
+19207	mcgurk-adam	20	McGurk, Adam	burton-albion	Burton Albion	F
+19143	matt-jamille	10	Matt, Jamille	fleetwood-town	Fleetwood Town	F
+19214	mccombe-john	5	McCombe, John	mansfield-town	Mansfield Town	D
+19215	mcgurk-david	5	McGurk, David	york-city	York City	D
+19456	minshull-lee	8	Minshull, Lee	newport-county	Newport County	M
+19334	mitchell-liam	33	Mitchell, Liam	mansfield-town	Mansfield Town	G
+19235	mcdonald-shaquille	17	McDonald, Shaquille	york-city	York City	F
+19050	mirfin-david	5	Mirfin, David	scunthorpe-united	Scunthorpe United	D
+19251	marsh-tyrone	20	Marsh, Tyrone	oxford-united	Oxford United	M
+19252	meades-jonathan	5	Meades, Jonathan	oxford-united	Oxford United	M
+19487	mingoia-piero	15	Mingoia, Piero	accrington-stanley	Accrington Stanley	M
+19302	mccormick-luke	23	McCormick, Luke	plymouth-argyle	Plymouth Argyle	G
+19575	monkhouse-andy	11	Monkhouse, Andy	hartlepool-united	Hartlepool United	M
+19730	mcglashan-jermaine	11	McGlashan, Jermaine	cheltenham-town	Cheltenham Town	M
+19333	marriott-alan	1	Marriott, Alan	mansfield-town	Mansfield Town	G
+19343	mcguire-jamie	23	McGuire, Jamie	mansfield-town	Mansfield Town	D
+19507	moore-taylor-jordan	15	Moore-Taylor, Jordan	exeter-city	Exeter City	D
+19359	meikle-lindon	20	Meikle, Lindon	mansfield-town	Mansfield Town	F
+19122	morris-josh	24	Morris, Josh	fleetwood-town	Fleetwood Town	D
+19374	mills-pablo	34	Mills, Pablo	bury	Bury	D
+15627	mandron-mikael	34	Mandron, Mikael	fleetwood-town	Fleetwood Town	F
+19370	mcintyre-robbie	28	McIntyre, Robbie	bury	Bury	D
+19433	maloney-jack	30	Maloney, Jack	portsmouth	Portsmouth	F
+19327	morgan-marvin	10	Morgan, Marvin	plymouth-argyle	Plymouth Argyle	F
+19436	mcloughlin-ian	33	McLoughlin, Ian	newport-county	Newport County	G
+19486	miller-george	12	Miller, George	accrington-stanley	Accrington Stanley	M
+19492	mccartan-shay	7	McCartan, Shay	accrington-stanley	Accrington Stanley	F
+19352	murray-adam	21	Murray, Adam	mansfield-town	Mansfield Town	M
+19478	murphy-peter	2	Murphy, Peter	accrington-stanley	Accrington Stanley	D
+19537	mccready-chris	15	McCready, Chris	morecambe	Morecambe	D
+19547	mcgee-joe	19	McGee, Joe	morecambe	Morecambe	M
+19548	mcgowan-aaron	21	McGowan, Aaron	morecambe	Morecambe	M
+19683	morias-junior	17	Morias, Junior	wycombe-wanderers	Wycombe Wanderers	F
+19554	marshall-marcus	14	Marshall, Marcus	morecambe	Morecambe	F
+19607	moore-sammy	8	Moore, Sammy	afc-wimbledon	AFC Wimbledon	M
+19385	mezague-valery		Mezague, Valery	bury	Bury	M
+19617	midson-jack	10	Midson, Jack	afc-wimbledon	AFC Wimbledon	F
+19623	mcnamara-ben	21	McNamara, Ben	northampton-town	Northampton Town	G
+19631	marquis-john	16	Marquis, John	torquay-united	Torquay United	D
+19673	mcclure-matt	29	McClure, Matt	wycombe-wanderers	Wycombe Wanderers	M
+19342	marsden-liam	29	Marsden, Liam	mansfield-town	Mansfield Town	D
+19715	mohamed-kaid	39	Mohamed, Kaid	afc-wimbledon	AFC Wimbledon	F
+19618	moore-luke_2	11	Moore, Luke	afc-wimbledon	AFC Wimbledon	F
+19061	mcallister-sean	4	McAllister, Sean	scunthorpe-united	Scunthorpe United	M
+19642	mcsweeney-leon	2	McSweeney, Leon	northampton-town	Northampton Town	M
+19661	mccoy-marvin	2	McCoy, Marvin	wycombe-wanderers	Wycombe Wanderers	D
+19293	murphy-rhys	9	Murphy, Rhys	dagenham-redbridge	Dagenham & Redbridge	F
+19216	montrose-lewis	14	Montrose, Lewis	york-city	York City	D
+19371	mclaughlin-dalton		McLaughlin, Dalton	bury	Bury	D
+19372	mcnulty-jim	3	McNulty, Jim	bury	Bury	D
+19549	mustoe-jordan	28	Mustoe, Jordan	wycombe-wanderers	Wycombe Wanderers	M
+19015	mason-cameron	33	Mason, Cameron	chesterfield	Chesterfield	G
+19373	melia-jordan	22	Melia, Jordan	bury	Bury	D
+19021	morte-luis-boa		Morte, Luis	chesterfield	Chesterfield	M
+19027	morsy-sam	5	Morsy, Sam	chesterfield	Chesterfield	M
+19632	moyo-david	20	Moyo, David	northampton-town	Northampton Town	D
+19040	morgan-david	33	Morgan, David	chesterfield	Chesterfield	F
+19688	mildenhall-steve	1	Mildenhall, Steve	bristol-rovers	Bristol Rovers	G
+19242	mullins-johnny	19	Mullins, Johnny	oxford-united	Oxford United	D
+19477	molyneux-lee	19	Molyneux, Lee	rochdale	Rochdale	D
+19384	mayor-danny	15	Mayor, Danny	bury	Bury	M
+19131	murdoch-stuart	4	Murdoch, Stuart	fleetwood-town	Fleetwood Town	M
+19386	miller-tommy	8	Miller, Tommy	bury	Bury	M
+19594	morris-aaron	27	Morris, Aaron	afc-wimbledon	AFC Wimbledon	D
+19225	murray-cameron	23	Murray, Cameron	york-city	York City	M
+19062	mcsheffrey-gary	28	McSheffrey, Gary	chesterfield	Chesterfield	M
+19643	morris-ian	8	Morris, Ian	northampton-town	Northampton Town	M
+18271	murphy-jacob	15	Murphy, Jacob	southend-united	Southend United 	M
+19073	madden-patrick	27	Madden, Patrick	scunthorpe-united	Scunthorpe United	F
+19397	mccartney-luke		McCartney, Luke	bury	Bury	F
+19085	mcginty-sean	23	McGinty, Sean	northampton-town	Northampton Town	D
+19674	morgan-dean	7	Morgan, Dean	wycombe-wanderers	Wycombe Wanderers	M
+19412	moutaouakil-yassin	2	Moutaouakil, Yassin	portsmouth	Portsmouth	D
+19488	naismith-kal	11	Naismith, Kal	accrington-stanley	Accrington Stanley	M
+19051	nolan-eddie	18	Nolan, Eddie	scunthorpe-united	Scunthorpe United	D
+19521	nicholls-tom	20	Nicholls, Tom	exeter-city	Exeter City	F
+19731	noble-david	25	Noble, David	cheltenham-town	Cheltenham Town	M
+19243	newey-tom	3	Newey, Tom	oxford-united	Oxford United	D
+19551	naylor-alex	26	Naylor, Alex	morecambe	Morecambe	M
+19307	nelson-curtis	17	Nelson, Curtis	plymouth-argyle	Plymouth Argyle	D
+19157	nesbitt-teddy		Nesbitt, Teddy	southend-united	Southend United 	D
+19608	nicholson-jake	29	Nicholson, Jake	afc-wimbledon	AFC Wimbledon	M
+19609	nightingale-will	32	Nightingale, Will	afc-wimbledon	AFC Wimbledon	M
+19387	nasseri-david	36	Nasseri, David	bury	Bury	M
+19398	nardiello-daniel	18	Nardiello, Daniel	bury	Bury	F
+19434	ngala-bondz	3	Ngala, Bondz	portsmouth	Portsmouth	F
+19446	naylor-tom	19	Naylor, Tom	newport-county	Newport County	D
+19648	nicholls-alex	14	Nicholls, Alex	northampton-town	Northampton Town	F
+19294	nouble-jon	28	Nouble, Jon	dagenham-redbridge	Dagenham & Redbridge	F
+19703	norburn-oliver	15	Norburn, Oliver	bristol-rovers	Bristol Rovers	M
+19496	odejayi-kayode	24	Odejayi, Kayode	accrington-stanley	Accrington Stanley	F
+19517	oakley-matt	8	Oakley, Matt	exeter-city	Exeter City	M
+19522	o-flynn-john	19	O'Flynn, John	exeter-city	Exeter City	F
+19100	o-connell-jack	22	O'Connell, Jack	rochdale	Rochdale	M
+19111	ollerenshaw-josh		Ollerenshaw, Josh	fleetwood-town	Fleetwood Town	G
+19253	o-dowda-callum	35	O'Dowda, Callum	oxford-united	Oxford United	M
+15726	oshilaja-adedeji	20	Oshilaja, Adedeji	newport-county	Newport County	D
+19576	oliver-connor	26	Oliver, Connor	hartlepool-united	Hartlepool United	M
+19595	osano-curtis		Osano, Curtis	afc-wimbledon	AFC Wimbledon	D
+19619	oakley-george	34	Oakley, George	afc-wimbledon	AFC Wimbledon	F
+19036	o-shea-james	10	O'Shea, James	chesterfield	Chesterfield	F
+19704	o-toole-john-joe	32	O'Toole, John-Joe	bristol-rovers	Bristol Rovers	M
+19286	ogogo-abu	8	Ogogo, Abu	dagenham-redbridge	Dagenham & Redbridge	M
+19217	oyebanjo-lanre	2	Oyebanjo, Lanre	york-city	York City	D
+19295	obafemi-afolabi	11	Obafemi, Afolabi	dagenham-redbridge	Dagenham & Redbridge	F
+19158	o-neill-luke	30	O'Neill, Luke	york-city	York City	D
+19399	obadeyi-temitope	28	Obadeyi, Temitope	plymouth-argyle	Plymouth Argyle	F
+19465	o-connor-aaron	10	O'Connor, Aaron	newport-county	Newport County	F
+19400	platt-clive	9	Platt, Clive	northampton-town	Northampton Town	F
+19500	pyn-christy	30	Pyn, Christy	exeter-city	Exeter City	G
+19523	parkin-sam	25	Parkin, Sam	exeter-city	Exeter City	F
+15358	potts-daniel	33	Potts, Daniel	portsmouth	Portsmouth	D
+19538	parrish-andy	22	Parrish, Andy	morecambe	Morecambe	D
+19101	porter-george	21	Porter, George	afc-wimbledon	AFC Wimbledon	M
+19308	purrington-ben	25	Purrington, Ben	plymouth-argyle	Plymouth Argyle	D
+18224	pickford-jordan	1	Pickford, Jordan	burton-albion	Burton Albion	G
+19423	padovani-romain	8	Padovani, Romain	portsmouth	Portsmouth	M
+19132	pond-nathan	6	Pond, Nathan	fleetwood-town	Fleetwood Town	M
+19144	parkin-jon	9	Parkin, Jon	fleetwood-town	Fleetwood Town	F
+19584	poole-james	10	Poole, James	hartlepool-united	Hartlepool United	F
+19439	pidgeley-lenny	1	Pidgeley, Lenny	newport-county	Newport County	G
+19184	poole-kevin	13	Poole, Kevin	burton-albion	Burton Albion	G
+19705	paterson-james	3	Paterson, James	bristol-rovers	Bristol Rovers	M
+19159	payne-jack	21	Payne, Jack	southend-united	Southend United 	D
+19160	prosser-luke	6	Prosser, Luke	southend-united	Southend United 	D
+19610	pell-harry	12	Pell, Harry	afc-wimbledon	AFC Wimbledon	M
+19172	pinnock-mitch	22	Pinnock, Mitch	southend-united	Southend United 	M
+19228	puri-sander	28	Puri, Sander	york-city	York City	M
+19457	patten-kyle		Patten, Kyle	newport-county	Newport County	M
+19200	phillips-jimmy	17	Phillips, Jimmy	burton-albion	Burton Albion	M
+19210	pope-nick	31	Pope, Nick	york-city	York City	G
+19218	parslow-daniel	6	Parslow, Daniel	york-city	York City	D
+19662	pierre-aaron	19	Pierre, Aaron	wycombe-wanderers	Wycombe Wanderers	D
+19199	palmer-matthew	23	Palmer, Matthew	burton-albion	Burton Albion	M
+19226	penn-russell	16	Penn, Russell	cheltenham-town	Cheltenham Town	M
+19227	platt-tom	18	Platt, Tom	york-city	York City	M
+19684	pittman-jon-paul	16	Pittman, Jon-Paul	wycombe-wanderers	Wycombe Wanderers	F
+19693	parkes-tom	6	Parkes, Tom	bristol-rovers	Bristol Rovers	D
+19254	potter-alfie	11	Potter, Alfie	oxford-united	Oxford United	M
+15632	price-lewis	33	Price, Lewis	mansfield-town	Mansfield Town	G
+19360	palmer-oliver	36	Palmer, Oliver	mansfield-town	Mansfield Town	F
+15641	parsons-matthew	26	Parsons, Matthew	plymouth-argyle	Plymouth Argyle	D
+19375	picken-phil		Picken, Phil	bury	Bury	D
+19376	poscha-marcus	36	Poscha, Marcus	bury	Bury	D
+19413	painter-marcos	14	Painter, Marcos	portsmouth	Portsmouth	D
+19438	perry-joe		Perry, Joe	newport-county	Newport County	G
+19437	parish-elliot	29	Parish, Elliot	newport-county	Newport County	G
+19458	pipe-david	2	Pipe, David	newport-county	Newport County	M
+19459	porter-max	4	Porter, Max	newport-county	Newport County	M
+19388	pratt-tom	29	Pratt, Tom	bury	Bury	M
+19466	parker-joe	27	Parker, Joe	newport-county	Newport County	F
+19389	procter-andrew	6	Procter, Andrew	bury	Bury	M
+19725	richards-matthew	14	Richards, Matthew	cheltenham-town	Cheltenham Town	D
+19424	racon-therry	31	Racon, Therry	portsmouth	Portsmouth	M
+19219	reed-adam	10	Reed, Adam	burton-albion	Burton Albion	D
+19718	rivers-harvey	30	Rivers, Harvey	cheltenham-town	Cheltenham Town	G
+19524	reid-jamie	18	Reid, Jamie	exeter-city	Exeter City	F
+19525	richards-elliot	10	Richards, Elliot	bristol-rovers	Bristol Rovers	F
+19028	richards-marc	9	Richards, Marc	chesterfield	Chesterfield	M
+19029	roberts-gary	11	Roberts, Gary	chesterfield	Chesterfield	M
+19529	roche-barry	1	Roche, Barry	morecambe	Morecambe	G
+19493	richardson-michael	8	Richardson, Michael	accrington-stanley	Accrington Stanley	F
+19344	riley-martin	6	Riley, Martin	mansfield-town	Mansfield Town	D
+19244	raynes-michael	4	Raynes, Michael	oxford-united	Oxford United	D
+19052	ribeiro-christian	2	Ribeiro, Christian	scunthorpe-united	Scunthorpe United	D
+19309	richards-jamie	22	Richards, Jamie	plymouth-argyle	Plymouth Argyle	D
+19560	rafferty-andy	13	Rafferty, Andy	hartlepool-united	Hartlepool United	G
+19566	rowbotham-josh	16	Rowbotham, Josh	hartlepool-united	Hartlepool United	D
+19320	reid-reuben	9	Reid, Reuben	plymouth-argyle	Plymouth Argyle	M
+19255	rigg-sean	7	Rigg, Sean	oxford-united	Oxford United	M
+15594	roofe-kemar	23	Roofe, Kemar	cheltenham-town	Cheltenham Town	M
+19577	richards-jordan	19	Richards, Jordan	hartlepool-united	Hartlepool United	M
+19675	rowe-daniel	33	Rowe, Daniel	wycombe-wanderers	Wycombe Wanderers	M
+19611	richards-tom	36	Richards, Tom	afc-wimbledon	AFC Wimbledon	M
+19335	redmond-shane		Redmond, Shane	mansfield-town	Mansfield Town	G
+19086	rafferty-joe	2	Rafferty, Joe	rochdale	Rochdale	D
+19087	rose-michael	25	Rose, Michael	rochdale	Rochdale	D
+19489	roddan-craig	8	Roddan, Craig	accrington-stanley	Accrington Stanley	M
+19353	roberts-gary_2		Roberts, Gary	mansfield-town	Mansfield Town	M
+19361	rhead-matthew	9	Rhead, Matthew	mansfield-town	Mansfield Town	F
+19624	roberts-connor	12	Roberts, Connor	cheltenham-town	Cheltenham Town	G
+19123	roberts-mark	5	Roberts, Mark	fleetwood-town	Fleetwood Town	D
+19377	regan-carl		Regan, Carl	bury	Bury	D
+19633	robertson-gregor	29	Robertson, Gregor	northampton-town	Northampton Town	D
+19585	rodney-nialle	23	Rodney, Nialle	hartlepool-united	Hartlepool United	F
+19644	ravenhill-richard	34	Ravenhill, Richard	northampton-town	Northampton Town	M
+19447	redman-ellis	26	Redman, Ellis	newport-county	Newport County	D
+19655	richardson-barry_2		Richardson, Barry	wycombe-wanderers	Wycombe Wanderers	G
+19578	rutherford-greg	17	Rutherford, Greg	hartlepool-united	Hartlepool United	M
+19030	ryan-james	12	Ryan, James	chesterfield	Chesterfield	M
+19256	rose-daniel	17	Rose, Daniel	oxford-united	Oxford United	M
+19257	ruffles-josh	37	Ruffles, Josh	oxford-united	Oxford United	M
+19265	roberts-james		Roberts, James	oxford-united	Oxford United	F
+19555	redshaw-jack	7	Redshaw, Jack	morecambe	Morecambe	F
+19133	sarcevic-antoni	18	Sarcevic, Antoni	fleetwood-town	Fleetwood Town	M
+19134	schumacher-steven	8	Schumacher, Steven	fleetwood-town	Fleetwood Town	M
+19148	smith-ted	40	Smith, Ted	southend-united	Southend United 	G
+19173	sokolik-jakub	35	Sokolik, Jakub	southend-united	Southend United 	M
+19192	sharps-ian	6	Sharps, Ian	burton-albion	Burton Albion	D
+19193	slade-liam	24	Slade, Liam	burton-albion	Burton Albion	D
+19258	shama-josh	33	Shama, Josh	oxford-united	Oxford United	M
+19266	smalley-deane	10	Smalley, Deane	oxford-united	Oxford United	F
+19272	seabright-jordan	30	Seabright, Jordan	dagenham-redbridge	Dagenham & Redbridge	G
+19278	saah-brian	5	Saah, Brian	dagenham-redbridge	Dagenham & Redbridge	D
+19280	silva-toni-brito		Silva, Toni	dagenham-redbridge	Dagenham & Redbridge	M
+19287	saunders-matthew	15	Saunders, Matthew	dagenham-redbridge	Dagenham & Redbridge	M
+19296	samuel-dominic	28	Samuel, Dominic	dagenham-redbridge	Dagenham & Redbridge	F
+19297	shields-sean	20	Shields, Sean	dagenham-redbridge	Dagenham & Redbridge	F
+19063	sparrow-matthew	7	Sparrow, Matthew	scunthorpe-united	Scunthorpe United	M
+19328	showunmi-enoch	25	Showunmi, Enoch	torquay-united	Torquay United	F
+19362	speight-jake	14	Speight, Jake	mansfield-town	Mansfield Town	F
+19390	sedgwick-chris	12	Sedgwick, Chris	bury	Bury	M
+19391	soares-tom	19	Soares, Tom	bury	Bury	M
+19404	smith-phil	1	Smith, Phil	portsmouth	Portsmouth	G
+19414	shorey-nicky	17	Shorey, Nicky	portsmouth	Portsmouth	D
+19460	stephenson-jamie	25	Stephenson, Jamie	newport-county	Newport County	M
+19467	sandell-andrew	13	Sandell, Andrew	newport-county	Newport County	F
+19045	slocombe-sam	1	Slocombe, Sam	scunthorpe-united	Scunthorpe United	G
+19518	sercombe-liam	7	Sercombe, Liam	exeter-city	Exeter City	M
+19147	smith-paul	1	Smith, Paul	southend-united	Southend United 	G
+19539	short-james	24	Short, James	morecambe	Morecambe	D
+19556	sampson-jack	9	Sampson, Jack	morecambe	Morecambe	F
+19161	straker-anthony	11	Straker, Anthony	southend-united	Southend United 	D
+19579	smith-connor	27	Smith, Connor	hartlepool-united	Hartlepool United	M
+19064	syers-dave	24	Syers, Dave	scunthorpe-united	Scunthorpe United	M
+19174	spicer-john		Spicer, John	southend-united	Southend United 	M
+19596	strutton-charlie	17	Strutton, Charlie	afc-wimbledon	AFC Wimbledon	D
+19597	sweeney-daniel	26	Sweeney, Daniel	afc-wimbledon	AFC Wimbledon	D
+19179	sturrock-blair		Sturrock, Blair	southend-united	Southend United 	F
+19612	sainte-luce-kevin	16	Sainte-Luce, Kevin	afc-wimbledon	AFC Wimbledon	M
+19613	sweeney-peter	4	Sweeney, Peter	afc-wimbledon	AFC Wimbledon	M
+19031	scully-josh	44	Scully, Josh	chesterfield	Chesterfield	M
+19032	smith-nathan	3	Smith, Nathan	chesterfield	Chesterfield	M
+19625	snedker-dean	13	Snedker, Dean	northampton-town	Northampton Town	G
+19634	siddiqi-kashif	30	Siddiqi, Kashif	northampton-town	Northampton Town	D
+19649	sinclair-emile	7	Sinclair, Emile	northampton-town	Northampton Town	F
+19663	stewart-anthony	5	Stewart, Anthony	wycombe-wanderers	Wycombe Wanderers	D
+19676	scowen-josh	4	Scowen, Josh	wycombe-wanderers	Wycombe Wanderers	M
+19677	spring-matthew	9	Spring, Matthew	wycombe-wanderers	Wycombe Wanderers	M
+19678	svard-sebastian	15	Svard, Sebastian	wycombe-wanderers	Wycombe Wanderers	M
+19208	symes-michael	28	Symes, Michael	burton-albion	Burton Albion	F
+19685	styche-reece	27	Styche, Reece	wycombe-wanderers	Wycombe Wanderers	F
+19694	southway-josh	35	Southway, Josh	bristol-rovers	Bristol Rovers	D
+19706	santos-alfie	33	Santos, Alfie	bristol-rovers	Bristol Rovers	M
+19716	smith-michael_3	2	Smith, Michael	bristol-rovers	Bristol Rovers	F
+19044	severn-james	13	Severn, James	scunthorpe-united	Scunthorpe United	G
+19440	swan-matthew		Swan, Matthew	newport-county	Newport County	G
+15321	siegrist-benjamin		Siegrist, Benjamin	burton-albion	Burton Albion	G
+19580	sweeney-antony	15	Sweeney, Antony	hartlepool-united	Hartlepool United	M
+19345	sutton-ritchie	2	Sutton, Ritchie	mansfield-town	Mansfield Town	D
+19354	stevenson-lee	10	Stevenson, Lee	mansfield-town	Mansfield Town	M
+19405	sullivan-john_2	25	Sullivan, John	portsmouth	Portsmouth	G
+19145	taylor-charlie	20	Taylor, Charlie	fleetwood-town	Fleetwood Town	F
+19112	thewlis-christian	40	Thewlis, Christian	fleetwood-town	Fleetwood Town	G
+19346	tafazolli-ryan	12	Tafazolli, Ryan	mansfield-town	Mansfield Town	D
+19355	thomas-jack	26	Thomas, Jack	mansfield-town	Mansfield Town	M
+19162	thompson-adam	23	Thompson, Adam	southend-united	Southend United 	D
+19163	timlin-michael	8	Timlin, Michael	southend-united	Southend United 	D
+19135	tyorio-mozefh		Tyorio, Mozefh	fleetwood-town	Fleetwood Town	M
+19392	tutte-andrew	8	Tutte, Andrew	rochdale	Rochdale	M
+19220	taft-george	23	Taft, George	york-city	York City	D
+19415	triggs-liam		Triggs, Liam	portsmouth	Portsmouth	D
+19435	taylor-ryan_3	20	Taylor, Ryan	portsmouth	Portsmouth	F
+19079	thomson-robbie	21	Thomson, Robbie	rochdale	Rochdale	G
+19088	tanser-scott	17	Tanser, Scott	rochdale	Rochdale	D
+19508	tillson-jordan	26	Tillson, Jordan	exeter-city	Exeter City	D
+19540	threlfall-robbie	3	Threlfall, Robbie	morecambe	Morecambe	D
+18257	turgott-blair	25	Turgott, Blair	dagenham-redbridge	Dagenham & Redbridge	M
+19310	trotman-neal	16	Trotman, Neal	plymouth-argyle	Plymouth Argyle	D
+19425	tarduck-bradley		Tarduck, Bradley	portsmouth	Portsmouth	M
+19635	tozer-ben	12	Tozer, Ben	northampton-town	Northampton Town	D
+19650	toney-ivan	24	Toney, Ivan	northampton-town	Northampton Town	F
+19321	thomas-nathan	19	Thomas, Nathan	plymouth-argyle	Plymouth Argyle	M
+19686	taylor-olly	33	Taylor, Olly	wycombe-wanderers	Wycombe Wanderers	F
+19695	thomas-dominic	37	Thomas, Dominic	bristol-rovers	Bristol Rovers	D
+19732	taylor-jason	4	Taylor, Jason	cheltenham-town	Cheltenham Town	M
+19033	togwell-sam	28	Togwell, Sam	wycombe-wanderers	Wycombe Wanderers	M
+19041	talbot-drew	25	Talbot, Drew	chesterfield	Chesterfield	F
+19468	velez-guillaume		Velez, Guillaume	newport-county	Newport County	F
+19329	vassel-issac	24	Vassel, Issac	plymouth-argyle	Plymouth Argyle	F
+19089	vidal-javan	15	Vidal, Javan	rochdale	Rochdale	D
+19090	vincenti-peter	7	Vincenti, Peter	rochdale	Rochdale	D
+19739	vincent-ashley	21	Vincent, Ashley	cheltenham-town	Cheltenham Town	F
+19053	waterfall-luke	15	Waterfall, Luke	scunthorpe-united	Scunthorpe United	D
+19497	webber-danny	9	Webber, Danny	accrington-stanley	Accrington Stanley	F
+19490	watson-ryan		Watson, Ryan	accrington-stanley	Accrington Stanley	M
+19065	welsh-andrew	11	Welsh, Andrew	scunthorpe-united	Scunthorpe United	M
+19054	williams-marcus	30	Williams, Marcus	scunthorpe-united	Scunthorpe United	D
+19526	watkins-ollie	34	Watkins, Ollie	exeter-city	Exeter City	F
+19527	wheeler-david	32	Wheeler, David	exeter-city	Exeter City	F
+19102	watson-luke		Watson, Luke	rochdale	Rochdale	M
+19541	williams-ryan_3	10	Williams, Ryan	morecambe	Morecambe	D
+19491	windass-josh	20	Windass, Josh	accrington-stanley	Accrington Stanley	M
+19426	wallace-jed	35	Wallace, Jed	portsmouth	Portsmouth	M
+19074	winnall-sam	29	Winnall, Sam	scunthorpe-united	Scunthorpe United	F
+19696	woodards-dan	4	Woodards, Dan	bristol-rovers	Bristol Rovers	D
+19582	walton-simon	8	Walton, Simon	hartlepool-united	Hartlepool United	M
+19598	warner-ross	1	Warner, Ross	afc-wimbledon	AFC Wimbledon	D
+19164	white-john	2	White, John	southend-united	Southend United 	D
+19019	whittaker-tim	39	Whittaker, Tim	chesterfield	Chesterfield	D
+19201	weir-robbie	8	Weir, Robbie	burton-albion	Burton Albion	M
+19552	wright-andrew	8	Wright, Andrew	morecambe	Morecambe	M
+19034	waddle-jack		Waddle, Jack	chesterfield	Chesterfield	M
+19042	wafula-jonathan		Wafula, Jonathan	chesterfield	Chesterfield	F
+19075	wootton-jamie	23	Wootton, Jamie	scunthorpe-united	Scunthorpe United	F
+19679	wood-sam	11	Wood, Sam	wycombe-wanderers	Wycombe Wanderers	M
+19480	winnard-dean	6	Winnard, Dean	accrington-stanley	Accrington Stanley	D
+19245	whing-andrew	16	Whing, Andrew	oxford-united	Oxford United	D
+19246	wright-jake	6	Wright, Jake	oxford-united	Oxford United	D
+19567	wright-joe		Wright, Joe	hartlepool-united	Hartlepool United	D
+19509	woodman-craig	3	Woodman, Craig	exeter-city	Exeter City	D
+19259	williams-ryan_2	15	Williams, Ryan	oxford-united	Oxford United	M
+19279	wilkinson-luke	2	Wilkinson, Luke	dagenham-redbridge	Dagenham & Redbridge	D
+19581	walker-brad	38	Walker, Brad	hartlepool-united	Hartlepool United	M
+19733	williams-harry	27	Williams, Harry	cheltenham-town	Cheltenham Town	M
+19298	williams-sam		Williams, Sam	dagenham-redbridge	Dagenham & Redbridge	F
+18803	woodrow-cauley		Woodrow, Cauley	southend-united	Southend United 	F
+19322	williams-robbie		Williams, Robbie	plymouth-argyle	Plymouth Argyle	M
+19323	wotton-paul	15	Wotton, Paul	plymouth-argyle	Plymouth Argyle	M
+19557	woods-tom	24	Woods, Tom	morecambe	Morecambe	F
+19448	worley-harry	22	Worley, Harry	newport-county	Newport County	D
+19601	william-william		William, William	afc-wimbledon	AFC Wimbledon	M
+19347	westlake-darryl	28	Westlake, Darryl	mansfield-town	Mansfield Town	D
+19260	wroe-nicky	22	Wroe, Nicky	oxford-united	Oxford United	M
+19180	williams-jason_2	28	Williams, Jason	southend-united	Southend United 	F
+19620	wyke-charlie	26	Wyke, Charlie	afc-wimbledon	AFC Wimbledon	F
+19461	willmott-robbie	12	Willmott, Robbie	newport-county	Newport County	M
+19401	walker-regan	31	Walker, Regan	bury	Bury	F
+19406	webster-adam	22	Webster, Adam	portsmouth	Portsmouth	G
+19427	whatmaugh-jack	36	Whatmaugh, Jack	portsmouth	Portsmouth	M
+19636	widdowson-joe	3	Widdowson, Joe	northampton-town	Northampton Town	D
+19479	wilson-lawrence_2	19	Wilson, Lawrence	accrington-stanley	Accrington Stanley	D
+19402	young-lewis	14	Young, Lewis	bury	Bury	F
+19599	youga-kelly		Youga, Kelly	afc-wimbledon	AFC Wimbledon	D
+19311	young-luke	14	Young, Luke	plymouth-argyle	Plymouth Argyle	D
+19449	yakubu-ismail	6	Yakubu, Ismail	newport-county	Newport County	D
+19469	zebroski-chris	11	Zebroski, Chris	newport-county	Newport County	F
+19757	beeley-shaun	2	Beeley, Shaun	bury	Bury	D
+19758	roberts-gareth	3	Roberts, Gareth	bury	Bury	D
+19759	harrad-shaun	14	Harrad, Shaun	bury	Bury	F
+19760	lockwood-adam-brian	28	Lockwood, Adam	bury	Bury	D
+19761	rooney-john	16	Rooney, John	bury	Bury	M
+19762	jackson-marlon	17	Jackson, Marlon	bury	Bury	F
+19763	reindorf-jessy	20	Reindorf, Jessy	bury	Bury	F
+19764	chapman-aaron	20	Chapman, Aaron	chesterfield	Chesterfield	G
+19765	smith-nathan_2	35	Smith, Nathan	chesterfield	Chesterfield	D
+19766	brown-matty	22	Brown, Matty	chesterfield	Chesterfield	F
+19767	taylor-jason_2	4	Taylor, Jason	cheltenham-town	Cheltenham Town	M
+19768	brown-junior	12	Brown, Junior	fleetwood-town	Fleetwood Town	M
+19769	crowther-ryan	24	Crowther, Ryan	fleetwood-town	Fleetwood Town	M
+19770	scott-joshua	10	Scott, Joshua	dagenham-redbridge	Dagenham & Redbridge	F
+19771	reed-jake	14	Reed, Jake	dagenham-redbridge	Dagenham & Redbridge	D
+19772	woodall-brian	23	Woodall, Brian	dagenham-redbridge	Dagenham & Redbridge	M
+19773	dennis-louis	16	Dennis, Louis	dagenham-redbridge	Dagenham & Redbridge	F
+19774	bittner-james	30	Bittner, James	newport-county	Newport County	G
+19775	carver-markus	18	Carver, Markus	accrington-stanley	Accrington Stanley	M
+19776	butler-d	34	Butler, D	portsmouth	Portsmouth	D
+19777	hall-asa	14	Hall, Asa	oxford-united	Oxford United	D
+19778	hartley-peter	29	Hartley, Peter	hartlepool-united	Hartlepool United	D
+19779	baldwin-jack	6	Baldwin, Jack	hartlepool-united	Hartlepool United	M
+19780	howard-steve	9	Howard, Steve	hartlepool-united	Hartlepool United	F
+19781	iwelumo-chris	9	Iwelumo, Chris	scunthorpe-united	Scunthorpe United	F
+19782	clark-jordan	24	Clark, Jordan	scunthorpe-united	Scunthorpe United	F
+19783	phillips-mark	5	Phillips, Mark	southend-united	Southend United 	D
+19784	njie-seedy	20	Njie, Seedy	southend-united	Southend United 	M
+19785	reid-craig	9	Reid, Craig	southend-united	Southend United 	F
+19786	blackman-andre	3	Blackman, Andre	plymouth-argyle	Plymouth Argyle	D
+19787	rice-martin	13	Rice, Martin	torquay-united	Torquay United	G
+19788	tonge-dale	2	Tonge, Dale	torquay-united	Torquay United	D
+19789	nicholson-kevin	3	Nicholson, Kevin	torquay-united	Torquay United	D
+19790	downes-aaron	4	Downes, Aaron	torquay-united	Torquay United	D
+19791	pearce-krystian	5	Pearce, Krystian	torquay-united	Torquay United	D
+19792	mansell-lee	7	Mansell, Lee	torquay-united	Torquay United	M
+19793	harding-ben	8	Harding, Ben	torquay-united	Torquay United	M
+19794	bodin-billy	10	Bodin, Billy	torquay-united	Torquay United	M
+19795	cameron-courtney	11	Cameron, Courtney	torquay-united	Torquay United	M
+19796	ball-callum	16	Ball, Callum	torquay-united	Torquay United	F
+19797	benyon-elliot	26	Benyon, Elliot	torquay-united	Torquay United	F
+19798	thompson-conor	33	Thompson, Conor	newport-county	Newport County	G
+19799	cruise-tom	21	Cruise, Tom	torquay-united	Torquay United	D
+19800	lathrope-damon	6	Lathrope, Damon	torquay-united	Torquay United	M
+19801	thompson-niall	15	Thompson, Niall	torquay-united	Torquay United	M
+19802	sullivan-daniel	31	Sullivan, Daniel	torquay-united	Torquay United	M
+19803	hawley-karl	9	Hawley, Karl	torquay-united	Torquay United	F
+19804	chapell-jordan	12	Chapell, Jordan	torquay-united	Torquay United	F
+19805	sheringham-charlie	18	Sheringham, Charlie	afc-wimbledon	AFC Wimbledon	F
+19806	hause-kortney	19	Hause, Kortney	wycombe-wanderers	Wycombe Wanderers	D
+19807	smith-chris_2	4	Smith, Chris	york-city	York City	D
+19808	clay-craig	8	Clay, Craig	york-city	York City	M
+19809	chambers-ashley	10	Chambers, Ashley	dagenham-redbridge	Dagenham & Redbridge	M
+19810	cresswell-richard	17	Cresswell, Richard	york-city	York City	F
+19811	kettings-chris	1	Kettings, Chris	york-city	York City	G
+19812	fyfield-jamal	16	Fyfield, Jamal	york-city	York City	D
+19813	amankwaah-kevin	2	Amankwaah, Kevin	northampton-town	Northampton Town	D
+19814	heath-matt	23	Heath, Matt	northampton-town	Northampton Town	D
+19815	emerton-danny	19	Emerton, Danny	northampton-town	Northampton Town	M
+19816	o-donovan-roy	10	O'Donovan, Roy	northampton-town	Northampton Town	F
+19817	demontagnac-ishmel	7	Demontagnac, Ishmel	northampton-town	Northampton Town	M
+19818	hooper-jj	16	Hooper, JJ	northampton-town	Northampton Town	F
+19819	jones-billy_2	16	Jones, Billy	newport-county	Newport County	D
+19820	boagey-zak	37	Boagey, Zak	hartlepool-united	Hartlepool United	M
+19821	cowan-don	15	Cowan, Don	southend-united	Southend United 	F
+19822	anderson-myles	27	Anderson, Myles	exeter-city	Exeter City	D
+19823	yeoman-ashley	14	Yeoman, Ashley	torquay-united	Torquay United	F
+19824	blyth-jacob	25	Blyth, Jacob	northampton-town	Northampton Town	F
+19825	washington-conor	14	Washington, Conor	newport-county	Newport County	F
+19826	sinnott-jordan	18	Sinnott, Jordan	bury	Bury	M
+19828	harrison-ashley	21	Harrison, Ashley	portsmouth	Portsmouth	F
+19829	smith-michael_4	9	Smith, Michael	afc-wimbledon	AFC Wimbledon	F
+19830	weston-rhys	24	Weston, Rhys	afc-wimbledon	AFC Wimbledon	D
+19831	morch-mac	13	Morch, Mac	burton-albion	Burton Albion	G
+19832	kenneth-garry	5	Kenneth, Garry	bristol-rovers	Bristol Rovers	D
+19833	mackenzie-kyrtis	30	Mackenzie, Kyrtis	torquay-united	Torquay United	D
+19834	spencer-james	28	Spencer, James	scunthorpe-united	Scunthorpe United	F
+19835	morch-mats	13	Morch, Mats	burton-albion	Burton Albion	G
+19836	edjenguele-william	25	Edjenguele, William	bury	Bury	D
+19837	dolan-matthew	4	Dolan, Matthew	hartlepool-united	Hartlepool United	M
+19838	wilson-ben	30	Wilson, Ben	accrington-stanley	Accrington Stanley	G
+19839	mahoney-connor	23	Mahoney, Connor	accrington-stanley	Accrington Stanley	M
+19840	harriott-matty	26	Harriott, Matty	northampton-town	Northampton Town	M
+19841	craig-nathan	20	Craig, Nathan	torquay-united	Torquay United	D
+19842	fletcher-tommy	25	Fletcher, Tommy	wycombe-wanderers	Wycombe Wanderers	D
+19843	reckford-jamie	28	Reckford, Jamie	plymouth-argyle	Plymouth Argyle	D
+19844	byrne-cliff	26	Byrne, Cliff	scunthorpe-united	Scunthorpe United	D
+19845	cooper-shaun	16	Cooper, Shaun	torquay-united	Torquay United	M
+19846	wilson-james_2	26	Wilson, James	cheltenham-town	Cheltenham Town	D
+19847	jalal-shwan	25	Jalal, Shwan	oxford-united	Oxford United	G
+19848	bond-andrew	16	Bond, Andrew	bristol-rovers	Bristol Rovers	M
+19849	lavercombe-dan	34	Lavercombe, Dan	torquay-united	Torquay United	G
+19850	whitehouse-elliott	29	Whitehouse, Elliott	york-city	York City	M
+19851	naylor-lee	27	Naylor, Lee	accrington-stanley	Accrington Stanley	D
+19852	dicker-gary	38	Dicker, Gary	rochdale	Rochdale	M
+19853	murtagh-kieran	8	Murtagh, Kieran	mansfield-town	Mansfield Town	M
+19854	reid-paul	18	Reid, Paul	northampton-town	Northampton Town	D
+19855	caton-james	28	Caton, James	accrington-stanley	Accrington Stanley	M
+19856	dallas-stuart	29	Dallas, Stuart	northampton-town	Northampton Town	M
+19857	navas-marcos	22	Navas, Marcos	bury	Bury	M
+19858	porter-chris_2	24	Porter, Chris	chesterfield	Chesterfield	F
+19859	mahon-gavin	15	Mahon, Gavin	portsmouth	Portsmouth	M
+19860	o-connor-anthony	29	O'Connor, Anthony	torquay-united	Torquay United	D
+19861	kiernan-robert	15	Kiernan, Robert	southend-united	Southend United 	D
+19862	poku-godfrey	25	Poku, Godfrey	mansfield-town	Mansfield Town	F
+19863	goddard-jordan	23	Goddard, Jordan	bristol-rovers	Bristol Rovers	M
+19864	poke-michael	1	Poke, Michael	torquay-united	Torquay United	G
+19865	mccourt-jak	17	McCourt, Jak	torquay-united	Torquay United	M
+19866	hutchings-jake	32	Hutchings, Jake	torquay-united	Torquay United	F
+19867	packwood-will	22	Packwood, Will	bristol-rovers	Bristol Rovers	D
+19868	henshall-alex	16	Henshall, Alex	bristol-rovers	Bristol Rovers	M
+19869	blake-jack	26	Blake, Jack	mansfield-town	Mansfield Town	M
+19870	mozika-damien	36	Mozika, Damien	torquay-united	Torquay United	M
+19871	mccallum-paul	19	McCallum, Paul	torquay-united	Torquay United	F
+19872	pilkington-george	27	Pilkington, George	mansfield-town	Mansfield Town	D
+19873	ferdinand-kane	32	Ferdinand, Kane	northampton-town	Northampton Town	M
+19874	noble-lazarus-reuben	27	Noble-Lazarus, Reuben	scunthorpe-united	Scunthorpe United	F
+19875	barker-george	24	Barker, George	newport-county	Newport County	F
+19876	tyson-nathan	34	Tyson, Nathan	fleetwood-town	Fleetwood Town	F
+19877	lavery-caolan	13	Lavery, Caolan	plymouth-argyle	Plymouth Argyle	F
+19878	mcleod-izale	39	McLeod, Izale	northampton-town	Northampton Town	F
+19879	stockley-jayden	19	Stockley, Jayden	torquay-united	Torquay United	F
+19880	goldson-connor	15	Goldson, Connor	cheltenham-town	Cheltenham Town	D
+19881	ajala-toby	26	Ajala, Toby	cheltenham-town	Cheltenham Town	M
+19882	mccarey-aaron	32	McCarey, Aaron	york-city	York City	G
+19883	eve-dale	40	Eve, Dale	fleetwood-town	Fleetwood Town	G
+19884	boyce-andrew	25	Boyce, Andrew	scunthorpe-united	Scunthorpe United	D
+19885	chaney-sam	22	Chaney, Sam	torquay-united	Torquay United	D
+19886	veseli-frederic	29	Veseli, Frederic	bury	Bury	D
+19887	german-antonio	25	German, Antonio	northampton-town	Northampton Town	F
+19888	labadie-joss	18	Labadie, Joss	torquay-united	Torquay United	M
+19889	goodwin-shamir	17	Goodwin, Shamir	torquay-united	Torquay United	F
+19890	fogdon-wesley	19	Fogdon, Wesley	portsmouth	Portsmouth	M
+19891	williams-luke	18	Williams, Luke	hartlepool-united	Hartlepool United	M
+19892	akpro-jean-louis-akpa	17	Akpro, Jean-Louis	bury	Bury	F
+19893	o-brien-aiden	25	O'Brien, Aiden	torquay-united	Torquay United	F
+19894	wilkinson-conor	27	Wilkinson, Conor	torquay-united	Torquay United	F
+19895	carroll-jake	24	Carroll, Jake	bury	Bury	D
+19896	diagouraga-toumani	29	Diagouraga, Toumani	portsmouth	Portsmouth	M
+19897	stevens-danny	23	Stevens, Danny	torquay-united	Torquay United	M
+19898	mccabe-rhys	33	McCabe, Rhys	portsmouth	Portsmouth	M
+19899	rose-danny_2	20	Rose, Danny	bury	Bury	F
+19900	loza-jamar_2	9	Loza, Jamar	southend-united	Southend United 	F
+19901	bennett-mason	30	Bennett, Mason	chesterfield	Chesterfield	F
+19902	cargill-baily	30	Cargill, Baily	torquay-united	Torquay United	D
+19905	angol-lee	24	Angol, Lee	wycombe-wanderers	Wycombe Wanderers	M
+19919	hurst-james	33	Hurst, James	northampton-town	Northampton Town	D

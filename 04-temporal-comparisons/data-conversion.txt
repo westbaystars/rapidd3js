@@ -1,0 +1,46 @@
+[{"Date":"2013-08-03",
+  "Games":[{"GameID":"20451",
+            "Away":"Northampton Town",
+            "AwayScore":"0",
+            "Home":"York City",
+            "HomeScore":"1",
+            "Venue":"Bootham Crescent"
+            },
+            {"GameID":"20449",
+             "Away":"AFC Wimbledon",
+             "AwayScore":"1",
+             "Home":"Torquay United",
+             "HomeScore":"1",
+             "Venue":"Plainmoor Ground, England"
+            },
+            ...
+  ...
+}]
+
+↓↓↓↓↓↓
+
+[["Northampton Town"]:[
+  {"date":"2013-08-03",
+   "points":1,
+   "team":"Northampton Town",
+   "opp":"York City",
+   "goals":1,
+   "allowed":1,
+   "align":"away",
+   "decision":"draw"
+  },{"date":...},
+  ...
+],["AFC Wimbledon"]:[
+  {"date":"2013-08-03",
+   "points":1,
+   "team":"AFC Wimbledon",
+   "opp":"Northampton Town",
+   "goals":1,
+   "allowed":1,
+   "align":"home",
+   "decision":"draw"
+  },{"date":...},
+  ...
+],
+...
+]]

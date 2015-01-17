@@ -1,0 +1,26 @@
+[{"Date":"2013-08-03","Games":[
+  {"GameID":"20451","Away":"Northampton Town","AwayScore":"0","Home":"York City","HomeScore":"1","Venue":"Bootham Crescent"},
+  {"GameID":"20449","Away":"AFC Wimbledon","AwayScore":"1","Home":"Torquay United","HomeScore":"1","Venue":"Plainmoor Ground"},
+  ...
+ ]},
+ {"Date":"2013-08-10","Games":[
+  {"GameID":"20461","Away":"Newport County","AwayScore":"1","Home":"Northampton Town","HomeScore":"3","Venue":"Sixfields Stadium"},
+  {"GameID":"20458","Away":"Southend United ","AwayScore":"1","Home":"Hartlepool United","HomeScore":"0","Venue":"Victoria Park"},
+  ...
+ ]},
+ ...
+]
+
+[{"Northampton Town":[
+  {date:"2013-08-03",points:0,team:"Northampton Town",opp:"York City",goals:0,allowed:1,align:"away",venue:"Bootham Crescent",decision:"loss"},
+  {date:"2013-08-10",points:3,team:"Northampton Town",opp:"Newport County",goals:3,allowed:1,align:"home",venue:"Sixfields Stadium",decision:"win"},
+  ...
+ ]},
+ {"York City":[
+  {date:"2013-08-03",points:3,team:"York City",opp:"Northampton Town",goals:1,allowed:0,align:"home",venue:"Bootham Crescent",decision:"win"},
+  {date:"2013-08-10",points:3,team:"York City",opp:"Dagenham & Redbridge",goals:0,allowed:2,align:"away",venue:"B&D Stadium",decision:"loss"},
+  {date:"2013-08-07",points:4,team:"York City",opp:"Hartlepool United",goals:0,allowed:0,align:"home",venue:"Bootham Crescent",decision:"draw"},
+  ...
+ ],
+ ...
+}]
