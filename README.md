@@ -5,6 +5,10 @@ The course was built using D3.js Version 3.x. Some parts will fail with the late
 
 ## Errata/Changes
 
+### Use HTTPS for Shared Libraries
+
+In index.html of each of the subproject, use HTTPS instead of HTTP for accessing the Bootstrap and D3 shared libraries. Encrypt all the things!
+
 ### Part 2, Video 2 - Filtering Data in an HTML Table
 
 * Timestamp 1:34
